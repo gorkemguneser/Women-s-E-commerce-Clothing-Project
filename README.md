@@ -30,6 +30,6 @@ Please bear in mind that this report is mostly focused on how to use Pythin visu
 <br>
 
 
-Gorkem Guneser<br>
+**Gorkem Guneser**<br>
 **E-mail:** gorkemguneser@hotmail.com<br>
-**25/09/2020**
+  **25/09/2020**
