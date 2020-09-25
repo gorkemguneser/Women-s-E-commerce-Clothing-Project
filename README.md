@@ -1,5 +1,3 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-
 # **Women's E-Commerce Clothing Data Analysis** <br>
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers.
 
@@ -27,4 +25,6 @@ Please bear in mind that this report is mostly focused on how to use Pythin visu
 
 
 
-
+Gorkem Guneser
+e-mail: gorkemguneser@hotmail.com
+25/09/2020
